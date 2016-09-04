@@ -1,0 +1,106 @@
+{
+	"images": {
+		"image": [{
+			"name": "registry/mangirdaz/rhel7",
+			"tag": [{
+				"tag": "7.2",
+				"dependencies": ["java-base", "python-base:latest"],
+				"iteration": 4,
+				"Metadata": {
+					"lastcallip": "192.168.0.1",
+					"lastcallstarttime": "asdasa",
+					"lastcallstoptime": "asdasd"
+				},
+				"lastonfig": {
+					"tag": "7.2",
+					"name": "mangirdaz/rhel7",
+					"dependencies": ["java-base", "python-base:latest"],
+					"latest": true,
+					"force": true,
+					"trigger": "webhook",
+					"alias": ["test-rhel", "rhel:7.2"],
+					"mode": "localbuild",
+					"server": "localhost:3000",
+					"moduleDir": "some dir",
+					"tempDir": "domedir",
+					"buildtag": "build"
+				}
+			}, {
+				"tag": "7.3",
+				"dependencies": ["java-base", "python-base:latest"],
+				"iteration": 4,
+				"Metadata": {
+					"lastcallip": "192.168.0.1",
+					"lastcallstarttime": "asdasa",
+					"lastcallstoptime": "asdasd"
+				},
+				"lastonfig": {
+					"tag": "7.2",
+					"name": "mangirdaz/rhel7",
+					"dependencies": ["java-base", "python-base:latest"],
+					"latest": true,
+					"force": true,
+					"trigger": "webhook",
+					"alias": ["test-rhel", "rhel:7.2"],
+					"mode": "localbuild",
+					"server": "localhost:3000",
+					"moduleDir": "some dir",
+					"tempDir": "domedir",
+					"buildtag": "build"
+				}
+			}]
+
+		},
+        {
+			"name": "mangirdaz/centos",
+			"tag": [{
+				"tag": "7.2",
+				"dependencies": ["java-base", "python-base:latest"],
+				"iteration": 4,
+				"Metadata": {
+					"lastcallip": "192.168.0.1",
+					"lastcallstarttime": "asdasa",
+					"lastcallstoptime": "asdasd"
+				},
+				"lastonfig": {
+					"tag": "7.2",
+					"name": "rhel7",
+					"dependencies": ["java-base", "python-base:latest"],
+					"latest": true,
+					"force": true,
+					"trigger": "webhook",
+					"alias": ["test-rhel", "rhel:7.2"],
+					"mode": "localbuild",
+					"server": "localhost:3000",
+					"moduleDir": "some dir",
+					"tempDir": "domedir",
+					"buildtag": "build"
+				}
+			}, {
+				"tag": "7.3",
+				"dependencies": ["java-base", "python-base:latest"],
+				"iteration": 4,
+				"Metadata": {
+					"lastcallip": "192.168.0.1",
+					"lastcallstarttime": "asdasa",
+					"lastcallstoptime": "asdasd"
+				},
+				"lastonfig": {
+					"tag": "7.2",
+					"name": "rhel7",
+					"dependencies": ["java-base", "python-base:latest"],
+					"latest": true,
+					"force": true,
+					"trigger": "webhook",
+					"alias": ["test-rhel", "rhel:7.2"],
+					"mode": "localbuild",
+					"server": "localhost:3000",
+					"moduleDir": "some dir",
+					"tempDir": "domedir",
+					"buildtag": "build"
+				}
+			}]
+
+		}]
+	}
+}

@@ -1,0 +1,170 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "f3cfb454f4c209e6668c95216c4744b8fddb2356",
+			"revisionTime": "2016-06-01T11:32:10Z"
+		},
+		{
+			"path": "github.com/codegangsta/negroni",
+			"revision": "dc6b9d037e8dab60cbfc09c61d6932537829be8b",
+			"revisionTime": "2016-07-13T18:03:17Z"
+		},
+		{
+			"path": "github.com/docker/docker/opts",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/archive",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/fileutils",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/homedir",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/idtools",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/ioutils",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/longpath",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/pools",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/promise",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/stdcopy",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/docker/pkg/system",
+			"revision": "db435560b38e4489ff3b0a8031d7b5110961fd32",
+			"revisionTime": "2016-07-08T18:06:33Z"
+		},
+		{
+			"path": "github.com/docker/engine-api/types/filters",
+			"revision": "98348ad6f9c89bb10f31ac32cd1b12cbadd292b6",
+			"revisionTime": "2016-07-08T12:36:04Z"
+		},
+		{
+			"path": "github.com/docker/engine-api/types/versions",
+			"revision": "98348ad6f9c89bb10f31ac32cd1b12cbadd292b6",
+			"revisionTime": "2016-07-08T12:36:04Z"
+		},
+		{
+			"path": "github.com/docker/go-units",
+			"revision": "f2d77a61e3c169b43402a0a1e84f06daf29b8190",
+			"revisionTime": "2016-06-13T21:20:13Z"
+		},
+		{
+			"path": "github.com/docker/libkv",
+			"revision": "35d3e2084c650109e7bcc7282655b1bc8ba924ff",
+			"revisionTime": "2016-07-01T18:37:15Z"
+		},
+		{
+			"path": "github.com/docker/libkv/store",
+			"revision": "35d3e2084c650109e7bcc7282655b1bc8ba924ff",
+			"revisionTime": "2016-07-01T18:37:15Z"
+		},
+		{
+			"path": "github.com/docker/libkv/store/consul",
+			"revision": "35d3e2084c650109e7bcc7282655b1bc8ba924ff",
+			"revisionTime": "2016-07-01T18:37:15Z"
+		},
+		{
+			"path": "github.com/fsouza/go-dockerclient",
+			"revision": "1a3d0cfd7814bbfe44ada7617654948c99891749",
+			"revisionTime": "2016-06-24T23:07:25Z"
+		},
+		{
+			"path": "github.com/go-yaml/yaml",
+			"revision": "e4d366fc3c7938e2958e662b4258c7a89e1f0e3e",
+			"revisionTime": "2016-07-15T03:37:55Z"
+		},
+		{
+			"path": "github.com/gorilla/context",
+			"revision": "aed02d124ae4a0e94fea4541c8effd05bf0c8296",
+			"revisionTime": "2016-05-25T20:33:19Z"
+		},
+		{
+			"path": "github.com/gorilla/mux",
+			"revision": "9fa818a44c2bf1396a17f9d5a3c0f6dd39d2ff8e",
+			"revisionTime": "2016-06-05T23:35:21Z"
+		},
+		{
+			"path": "github.com/hashicorp/consul/api",
+			"revision": "64e3033d3c7f80af3f925f4665a9bc1af75d6153",
+			"revisionTime": "2016-07-06T17:54:05Z"
+		},
+		{
+			"origin": "github.com/hashicorp/consul/vendor/github.com/hashicorp/go-cleanhttp",
+			"path": "github.com/hashicorp/go-cleanhttp",
+			"revision": "ad28ea4487f05916463e2423a55166280e8254b5",
+			"revisionTime": "2016-04-07T17:41:26Z"
+		},
+		{
+			"origin": "github.com/hashicorp/consul/vendor/github.com/hashicorp/serf/coordinate",
+			"path": "github.com/hashicorp/serf/coordinate",
+			"revision": "64e3033d3c7f80af3f925f4665a9bc1af75d6153",
+			"revisionTime": "2016-07-06T17:54:05Z"
+		},
+		{
+			"path": "github.com/jhoonb/archivex",
+			"revision": "b669bdadd30ace382d6e082dfcc8e33b926db1a1",
+			"revisionTime": "2016-06-24T15:28:36Z"
+		},
+		{
+			"checksumSHA1": "ZZY0W33GiZuHlyWce8xkE5tknmo=",
+			"path": "github.com/jmcvetta/napping",
+			"revision": "9bfcafb412a92b4501b4a03718c67acb3f0c1c23",
+			"revisionTime": "2016-07-15T19:27:02Z"
+		},
+		{
+			"path": "github.com/opencontainers/runc/libcontainer/user",
+			"revision": "9d7831e41d3ef428b67685eeb27f2b4a22a92391",
+			"revisionTime": "2016-07-06T16:51:55Z"
+		},
+		{
+			"path": "golang.org/x/net/context",
+			"revision": "b400c2eff1badec7022a8c8f5bea058b6315eed7",
+			"revisionTime": "2016-06-19T19:44:24Z"
+		},
+		{
+			"path": "golang.org/x/sys/unix",
+			"revision": "62bee037599929a6e9146f29d10dd5208c43507d",
+			"revisionTime": "2016-06-14T22:52:37Z"
+		},
+		{
+			"path": "gopkg.in/jmcvetta/napping.v3",
+			"revision": "d2748d8bdd2cffedec5c3024958de65bf7cb55aa",
+			"revisionTime": "2016-07-15T19:26:07Z"
+		}
+	],
+	"rootPath": "github.com/mangirdaz/dockertree"
+}

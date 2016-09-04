@@ -1,0 +1,21 @@
+{
+	"images": {
+		"image": [{
+			"name": "test/rhel7",
+			"tag": [{
+				"tag": "7.2",
+				"iteration": 8
+			}, {
+				"tag": "7.3",
+				"dependencies": ["java-base", "python-base:latest"],
+				"iteration": 4,
+				"Metadata": {
+					"lastcallip": "192.168.0.1",
+					"lastcallstarttime": "asdasa",
+					"lastcallstoptime": "asdasd"
+				}
+			}]
+
+		}]
+	}
+}
